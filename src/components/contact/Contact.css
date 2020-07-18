@@ -1,0 +1,11 @@
+.contact {
+    display: grid;
+    grid-template-columns: 10rem 10rem 10rem 10rem;
+    grid-column-gap: 20px;
+    margin-top: 1rem;
+    justify-content: space-evenly;
+}
+.avatar img {
+    border-radius: 50%;
+
+}

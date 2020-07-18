@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Prashant",
+        "lastName": "Shinde",
+        "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+        "phone": "8390434094"
+    },
+    {
+        "firstName": "Bhushan",
+        "lastName": "Pawar",
+        "avatar": "https://randomuser.me/api/portraits/men/76.jpg",
+        "phone": "8390434094"
+    },
+    {
+        "firstName": "Prasad",
+        "lastName": "Pawar",
+        "avatar": "https://randomuser.me/api/portraits/men/79.jpg",
+        "phone": "8390434094"
+    }
+]
